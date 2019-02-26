@@ -1,0 +1,30 @@
+// COLORS
+$color-primary-light: #f7f4e3;
+$color-primary-dark: #fee4a6;
+$color-secondary-light: #fee4a6;
+$color-secondary-dark: #f9c4aa;
+$color-white: #fff;
+$color-black: #000;
+$color-grey: #888;
+$color-grey-dark: #333;
+
+// BROWSER NORMILIZATION
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+  background-color: $color-primary-light;
+}

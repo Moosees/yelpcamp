@@ -12,15 +12,35 @@ let campgrounds = [
 	{
 		name: 'Crazy Creek',
 		image:
-			'https://images.pexels.com/photos/1549122/pexels-photo-1549122.jpeg?auto=compress&cs=tinysrgb&dpr=1&&w=400'
+			'https://images.pexels.com/photos/1549122/pexels-photo-1549122.jpeg?auto=compress&cs=tinysrgb&dpr=1&&h=400'
 	},
 	{
 		name: 'Weird Valley',
-		image: 'https://images.pexels.com/photos/699558/pexels-photo-699558.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400'
+    image: 'https://images.pexels.com/photos/699558/pexels-photo-699558.jpeg?auto=compress&cs=tinysrgb&dpr=1&h=400'
 	},
 	{
 		name: 'Atlantis Alley',
-		image: 'https://images.pexels.com/photos/772207/pexels-photo-772207.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400'
+    image: 'https://images.pexels.com/photos/772207/pexels-photo-772207.jpeg?auto=compress&cs=tinysrgb&dpr=1&h=400'
+	},
+	{
+		name: 'Lorem Lake',
+		image: 'https://images.pexels.com/photos/772207/pexels-photo-772207.jpeg?auto=compress&cs=tinysrgb&dpr=1&h=400'
+	},
+	{
+		name: 'Funny Ford',
+		image: 'https://images.pexels.com/photos/772207/pexels-photo-772207.jpeg?auto=compress&cs=tinysrgb&dpr=1&h=400'
+	},
+	{
+		name: 'Garden of Nede',
+		image: 'https://images.pexels.com/photos/772207/pexels-photo-772207.jpeg?auto=compress&cs=tinysrgb&dpr=1&h=400'
+	},
+	{
+		name: 'Imagination Inn',
+		image: 'https://images.pexels.com/photos/772207/pexels-photo-772207.jpeg?auto=compress&cs=tinysrgb&dpr=1&h=400'
+	},
+	{
+		name: 'Dummy Dreams Camp',
+		image: 'https://images.pexels.com/photos/772207/pexels-photo-772207.jpeg?auto=compress&cs=tinysrgb&dpr=1&h=400'
 	}
 ];
 

@@ -1,0 +1,12 @@
+.hero {
+  background-color: $color-secondary-dark;
+  border-radius: 5px;
+  margin: .5rem 5%;
+  padding: 2rem;
+}
+
+.hero__h1 {
+  color: $color-grey-dark;
+  font-size: 5rem;
+  padding: 2rem 0;
+}
