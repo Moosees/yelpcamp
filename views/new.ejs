@@ -1,13 +1,16 @@
 <% include ./partials/header %>
 
-<h1>Create a new campground</h1>
+<section class="hero">
+  <h1 class="hero__h1">Create a new campground</h1>
+  <a class="btn" href="/campgrounds">Back to campgrounds</a>
+</section>
 
-<form action="/campgrounds" method="POST">
-  <input type="text" name="name" placeholder="Name">
-  <input type="text" name="image" placeholder="Image URL">
-  <button>Submit</button>
-</form>
-
-<a href="/campgrounds">Back to campgrounds</a>
+<div class="new">
+  <form action="/campgrounds" method="POST">
+    <input class="new__input" type="text" name="name" placeholder="Name">
+    <input class="new__input" type="text" name="image" placeholder="Image URL">
+    <button class=" btn new__btn">Submit</button>
+  </form>
+</div>
 
 <% include ./partials/footer %>

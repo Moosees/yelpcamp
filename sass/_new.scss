@@ -1,0 +1,12 @@
+.new {
+  margin: 3rem auto;
+  width: 30%;
+
+  &__input,
+  &__btn {
+    display: block;
+    margin: .5rem;
+    padding: 1rem;
+    width: 100%;
+  }
+}
