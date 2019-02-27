@@ -1,5 +1,5 @@
 .btn {
-  background-color: $color-primary-dark;
+  background-color: $color-secondary-light;
   // border: 1px solid $color-grey;
   border-radius: 5px;
   color: $color-black;
@@ -12,6 +12,6 @@
   transition: background-color .2s ease;
 
   &:hover {
-    background-color: $color-primary-light;
+    background-color: $color-primary-dark;
   }
 }

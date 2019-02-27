@@ -1,17 +1,18 @@
-.camps-container {
+.campgrounds {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 5%;
+  justify-content: center;
+  margin: 0 $gutter-sides;
 }
 
 .campground {
   background-color: $color-primary-dark;
-  border: 2px solid $color-black;
+  border: 2px solid $color-secondary-light;
   border-radius: 10px;
-  box-shadow: .25rem .5rem 1rem .1rem rgba($color-black, .15);
+  box-shadow: $box-shadow-light;
   display: flex;
   flex-direction: column;
-  margin: 1rem;
+  margin: .5rem;
   overflow: hidden;
   padding: .5rem;
 

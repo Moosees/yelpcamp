@@ -1,7 +1,8 @@
 .hero {
   background-color: $color-secondary-dark;
   border-radius: 5px;
-  margin: 2rem 15%;
+  box-shadow: $box-shadow-light;
+  margin: 2rem $gutter-sides;
   padding: 2rem;
 }
 

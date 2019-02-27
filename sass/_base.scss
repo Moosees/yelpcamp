@@ -1,12 +1,16 @@
 // COLORS
 $color-primary-light: #f7f4e3;
 $color-primary-dark: #fee4a6;
-$color-secondary-light: #fee4a6;
+$color-secondary-light: #fca287;
 $color-secondary-dark: #f9c4aa;
 $color-white: #fff;
 $color-black: #000;
 $color-grey: #888;
 $color-grey-dark: #333;
+
+// MISC VARIABLES
+$gutter-sides: 18%;
+$box-shadow-light: .25rem .5rem 1rem .1rem rgba($color-black, .15);
 
 // BROWSER NORMILIZATION
 * {
